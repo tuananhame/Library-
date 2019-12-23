@@ -1,0 +1,7 @@
+
+trang này để quản trị
+tài khoản 
+username: 	admin
+pass: 123
+
+ok chức năng r đấy
